@@ -1,8 +1,25 @@
-<h1 align="center">Hi, I'm Yash Gupta! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&size=45&vCenter=true&width=500&color=9b4fff&lines=Hi+I'm+Yash+Gupta+!+👋)](https://git.io/typing-svg)
+
 <h3 align="center">AI and ML Enthusiast 💻</h3>
+<img src="coder.gif" align="right" width="380px" alt="gif">
+<div>
+  <br>
+  <br>
+  <br>
+
+  - 🔭 I’m currently working on ML
+  - 🌱 I’m currently learning: Seaborn
+  - 💬 Ask me about: C++, Python, Kotlin, Competitive Programming, App Development
+  - 📫 Reach me through [Mail](mailto:gupta58901@gmail.com) 
+
+<br >
+<br >
+<br >
+<br >
 
 ##
 ![](https://komarev.com/ghpvc/?username=yash-G-22&color=green&style=plastic&abbreviated=true)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
