@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Yash Gupta! 👋</h1>
 <h3 align="center">AI and ML Enthusiast 💻</h3>
+##
+![](https://komarev.com/ghpvc/?username=yash-G-22&color=green&style=plastic&abbreviated=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-gupta-66a869224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash gupta" height="30" width="40" /></a>
