@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?&size=45&vCenter=true&width=500&color=9b4fff&lines=Hi+I'm+Yash+Gupta+!+👋)](https://git.io/typing-svg)
 
-<h3 align="center">AI and ML Enthusiast 💻</h3>
+<h3 align="center">ML and Data Science Enthusiast 💻</h3>
 <img src="coder.gif" align="right" width="380px" alt="gif">
 <div>
   <br>
