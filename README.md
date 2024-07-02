@@ -8,7 +8,7 @@
   <br>
 
   - 🔭 I’m currently working on ML
-  - 🌱 I’m currently learning: Seaborn
+  - 🌱 I’m currently learning: Neural Networks
   - 💬 Ask me about: C++, Python, Kotlin, Competitive Programming, App Development
   - 📫 Reach me through [Mail](mailto:gupta58901@gmail.com) 
 
