@@ -1,84 +1,96 @@
+# 🚀 Welcome to My Digital Laboratory
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "AI Enthusiast"
+        self.role = "Machine Learning Engineer"
+        self.workspace = "Deep Learning Architect"
+        self.passion = ["Cutting-edge ML", "Open Source", "Innovation"]
+        self.current_focus = "Advanced Deep Learning Architectures & MLOps"
+```
+
+## 🎯 Current Mission
+
+> **Transforming ideas into intelligent solutions, one model at a time**
+
+I'm currently diving deep into the fascinating world of **cutting-edge Machine Learning projects**, where every line of code brings us closer to the future. My workstation is my command center for exploring the boundaries of artificial intelligence.
+
+## 🔬 What I'm Working On
+
+```bash
+├── 🧠 Advanced Deep Learning Architectures & MLOps
+├── 🤝 Open Source AI Collaborations  
+├── 📈 Large-scale Model Deployments
+├── 🐍 Python, C++, AI/ML, and App Development
+└── 📚 Continuous Learning & Knowledge Sharing
+```
+
+## 🛠️ Tech Arsenal
+
+**Languages & Frameworks**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) `Advanced Proficiency`
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) `Front-end Magic`
+- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) `Performance Critical`
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Machine Learning & AI**
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+## 🌟 Featured Project Spotlight
+
+### 🔍 [Automatic Number Plate Recognition (ANPR)](https://github.com/username/anpr-project)
+
+**A cutting-edge computer vision application that revolutionizes vehicle identification**
+
+```python
+# Real-time license plate detection and recognition
+model = load_pytorch_model()
+result = model.detect_and_recognize(uploaded_image)
+print(f"Detected Plate: {result.plate_number}")
+```
+
+**Tech Stack:** `Python` `Flask` `PyTorch` `OpenCV` `HTML/CSS`
+
+This project represents the perfect fusion of deep learning and practical application, developed during my summer internship at HRCL. It demonstrates real-world problem-solving using state-of-the-art computer vision techniques.
+
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Header GIF"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
 
+## 🌐 Let's Connect & Collaborate
+
+I'm always excited to connect with fellow developers, researchers, and AI enthusiasts! Whether you want to discuss the latest ML breakthroughs, collaborate on open-source projects, or just chat about technology:
+
 <div align="center">
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Yash+Gupta;An+AI-ML+Enthusiast&font=Fira%20Code&center=true&width=500&height=50&color=00FF00&vCenter=true&size=25" alt="Typing SVG" />
-    </a>
-  </h1>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
 </div>
 
-<table align="center">
-  <tr>
-    <td valign="top" width="55%">
-      
-- 🔭 I’m currently working on **cutting-edge Machine Learning projects**.
-- 🌱 I’m currently learning **Advanced Deep Learning Architectures & MLOps**.
-- 👯 I’m looking to collaborate on **Open Source AI projects**.
-- 🤔 I’m looking for help with **deploying large-scale models**.
-- 💬 Ask me about **Python, C++, AI/ML, and App Development**.
-- 📫 How to reach me: **gupta58901@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under a minute!**
+## 💡 Philosophy
+
+> *"In the world of AI, every problem is an opportunity to innovate, and every solution opens doors to new possibilities."*
+
+---
 
 <div align="center">
-  <h3>Connect with Me</h3>
-  <a href="https://www.linkedin.com/in/yash-gupta-66a869224/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/yash_gupta_0122/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
 
-</td>
-<td valign="top" width="45%">
+**🚀 Ready to build the future together? Let's code something amazing!**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-G-22&show_icons=true&theme=radical&border_radius=15&include_all_commits=true&count_private=true" alt="Yash's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-G-22&theme=dark&border_radius=15" alt="Yash's Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-G-22&layout=compact&theme=vision-friendly-dark&border_radius=15" alt="Yash's Top Languages"/>
-</div>
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
 
-</td>
-</tr>
-</table>
-
-### 🛠️ Languages and Tools
-
-<p align="center">
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/> </a>
-</p>
-
-## 🏆 Featured Project
-
-<table align="center">
-  <tr>
-    <td valign="top">
-      <h3><a href="https://github.com/yash-G-22/ANPR-System">Automatic Number Plate Recognition (ANPR)</a></h3>
-      <p>A web application built with Flask that uses a PyTorch model to detect and recognize vehicle license plates from an uploaded image. Developed as part of my summer internship at HPCL.</p>
-      <p><strong>Technologies:</strong> Python, Flask, PyTorch, OpenCV, HTML/CSS</p>
-    </td>
-    <td valign="top">
-      <a href="https://github.com/yash-G-22/ANPR-System">
-        <img src="https://user-images.githubusercontent.com/80158229/184482393-b1862788-b5b8-4233-a24f-7919a557de72.png" alt="ANPR Project Screenshot" width="300"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github.com/yash-G-22/yash-G-22/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
