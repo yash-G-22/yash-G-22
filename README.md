@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Header GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Header GIF"/>
 </div>
 
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Hey, I'm Yash+Gupta!👋;A+Passionate+ML+Developer;Always+Curious,+Always+Learning...&font=Fira%20Code&center=true&width=500&height=50&color=00FF00&vCenter=true&size=25" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Yash+Gupta;An+AI-ML+Enthusiast&font=Fira%20Code&center=true&width=500&height=50&color=00FF00&vCenter=true&size=25" alt="Typing SVG" />
     </a>
   </h1>
 </div>
